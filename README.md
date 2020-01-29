@@ -27,3 +27,7 @@ All pull requests are welcome, make sure to follow the contribution guidelines w
 5. Commit your changes: git commit -m 'Add some feature'
 6. Push to the branch: git push origin my-new-feature
 7. Submit a pull request against the development branch
+
+
+<img src="screenshots/Screenshot_1580300626.png" width="250"/> <img src="screenshots/Screenshot_1580300637.png" width="250"/>
+<img src="screenshots/Screenshot_1580300639.png" width="250"/>

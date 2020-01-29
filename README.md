@@ -1,6 +1,6 @@
 # Dogs
 A simple android app to hit Dogs API and show a list of Dogs, that shows details when items on the list are tapped.
-I am using Model–view–ViewModel (MVVM) architectural pattern.
+I am using Model–view–ViewModel (MVVM) architectural pattern and Some of Android Jetpack Components 
 
 
 ## Developed Features
